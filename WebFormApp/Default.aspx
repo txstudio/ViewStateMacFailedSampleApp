@@ -25,7 +25,7 @@
             <asp:Literal runat="server" ID="CurrentDateTimeLiteral"></asp:Literal>
 
             <!--
-                這是一個示範嘗試重現「... Viewstate MAC 的驗證失敗 ...」的範例程式碼網站
+                這是一個嘗試重現「... Viewstate MAC 的驗證失敗 ...」的範例程式碼網站
                 
                 情境為在 Windows Network Load Balancing 環境下
                 進行 HttpPost 之後可能會出現「... Viewstate MAC 的驗證失敗 ...」
